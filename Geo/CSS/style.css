@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#Geo-back{
+    background-image: url(../Images/Geo\ 1.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    padding: 2rem 10rem;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+#Geo-logo{
+    text-decoration: none;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30pt;
+    font-weight: bolder;
+}
+
+#Geo-links{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    list-style: none;
+    gap: 30pt;
+    margin-left: 30rem;
+    list-style: none;
+    
+   
+}
+
+
+#btn{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 1rem;
+    border: 0;
+    background-color: green;
+    color: aliceblue;
+    margin-top: 25rem;
+    margin-left: 55rem;
+;
+}
+
+.about-text{
+    display: flex;
+    
+}
+
+.about-text h1{
+    font-size: 30pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+}
+
+.about-text h2{
+    font-size: 20pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(0, 128, 0, 0.521);
+}
+
+.about-text p{
+    font-size: 15pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn-2{
+    padding-right: 1rem;
+    border-radius: 2rem;
+    border: 0;
+    background-color: green;
+    color: aliceblue;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+.img{
+    display: flex;
+    width: 100%;
+    gap: 2rem;
+}
+
+.section-text{
+    display: flex;
+}
+
+.section-text h4{
+font-size: 20pt;
+font-family: 'Times New Roman', Times, serif;
+color: green;
+}
+
+.section-text p{
+    font-size: 15pt;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.btn-3{
+    padding-right: 1rem;
+    border-radius: 2rem;
+    border: 0;
+    background-color: green;
+    color: aliceblue;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+.img-img{
+    width: 100%;
+    margin-top: 5rem;
+}
+
+.footer-text{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(0, 128, 0, 0.514);
+    list-style: none;
+    height: 50vh;
+    column-gap: 20rem;
+    
+    
+}
+
